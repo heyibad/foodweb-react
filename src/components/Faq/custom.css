@@ -1,0 +1,45 @@
+
+
+
+img{
+    height: 40vh;
+    padding-left: 25% !important;
+  }
+  
+  
+  .accordion-button:focus {
+  
+      border-color: none !important; 
+      outline: 0;
+       box-shadow: none !important;
+  }
+  .accordion-button{
+    border-radius: 10px !important;}
+  .accordion-item{
+    border-radius: 10px !important;
+  }
+  .accordion-body{
+    border-radius:0 0 10px 10px !important;
+  
+  }
+  .accordion-body, .accordion-button,.accordion-item,strong{
+    background-color: rgb(209, 208, 208) !important;
+    color: black !important;
+    font-family: 'Poppins', sans-serif !important;
+  
+  
+  
+  }
+  h3{
+    font-size: 1.2rem;
+    font-family: 'Josefin Sans', sans-serif !important;
+  
+  }
+  .hr5{
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px !important;
+  }
+  
+  
